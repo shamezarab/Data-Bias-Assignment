@@ -1,1 +1,7 @@
 # Data-Bias-Assignment
+
+Within the Perspective API, I learned that there are many different instances of bias throughout different categories. One category that I tested was of gender toxicity bias. I created a hypothesis that shows that there is a bias within this Perspective API which suggests that the model is less likely to mark anti-male content as toxic when compared to anti-female content. I believe that this is true because of the fact that whenever I would create and test a toxic statement about males, the toxicty score would always come out lower than when I would write and test the same statement about females.
+
+What surpirsed me about my findings was that I thought that the Perspective API would not favor one gender over another, but I was mistaken when I found this particular gender bias toxicity within the model. The results were ashonishing after testing this model as I came to realize that there is a unfair bias towards favoring men when talking or writing bad things about either gender.
+
+I believe that my results are what they are because of the people who are programming how each toxicity score is created. I think that these people are creating this gender bias when they are programming what exactly constitutes the extent of how much something is or isn't toxic. While doing this, they are favoring men in which they are making lower toxicity scores and putting women at a disadvantage with higher toxicity scores when compared to each other in this model.
